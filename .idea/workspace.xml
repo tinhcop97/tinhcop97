@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d89eed95-91e3-40d5-ab9c-849a437bfa6f" name="Changes" comment="" />
+    <list default="true" id="d89eed95-91e3-40d5-ab9c-849a437bfa6f" name="Changes" comment="new PT">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,7 +19,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="dev" />
+        <entry key="$PROJECT_DIR$" value="tinhPT" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -46,6 +48,28 @@
       <workItem from="1699892806077" duration="701000" />
       <workItem from="1699895579511" duration="349000" />
     </task>
+    <task id="LOCAL-00001" summary="sửa main">
+      <created>1700411493276</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1700411493276</updated>
+    </task>
+    <task id="LOCAL-00002" summary="master auto PT">
+      <created>1700411658756</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1700411658756</updated>
+    </task>
+    <task id="LOCAL-00003" summary="new PT">
+      <created>1700411835804</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1700411835804</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -63,6 +87,9 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <option name="LAST_COMMIT_MESSAGE" value="" />
+    <MESSAGE value="sửa main" />
+    <MESSAGE value="master auto PT" />
+    <MESSAGE value="new PT" />
+    <option name="LAST_COMMIT_MESSAGE" value="new PT" />
   </component>
 </project>
