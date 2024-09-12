@@ -7,4 +7,8 @@ public class test {
     //master auto PT
     //tự phát triển rồi commit
     sửa trên nhánh tinh, commit trên nhánh tinh
+
+    tinh sửa trên nhánh tinh
+    tinh sửa dòng 1
+
 }
